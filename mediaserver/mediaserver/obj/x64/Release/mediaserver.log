@@ -1,0 +1,9 @@
+﻿  Cleaning remote project directory
+  Validating architecture
+  Validating sources
+  Copying sources remotely
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  mediaserver.vcxproj -> z:\mediaserver\mediaserver\bin\x64\Release\mediaserver.out

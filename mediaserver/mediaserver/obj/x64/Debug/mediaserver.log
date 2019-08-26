@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '10.105.27.99'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  mediaserver.vcxproj -> D:\Media Server\Sir Asad COde\mediaserver\mediaserver\bin\x64\Debug\mediaserver.out
